@@ -1,0 +1,9 @@
+modelo\Propietario.class
+dao\DaoPersona.class
+com\mycompany\refactorizacion\Refactorizacion.class
+persistencia\ArchivoUtil.class
+modelo\Persona.class
+modelo\Veterinario.class
+persistencia\ArchivoManager.class
+controlador\ControladorPersona.class
+vista\VentanaFormulario.class
